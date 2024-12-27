@@ -1,0 +1,28 @@
+{
+  "barChartExpenses": [
+    {
+      "Month": "Aug",
+      "Amount": 1000
+    },
+    {
+      "Month": "Sep",
+      "Amount": 5550
+    },
+    {
+      "Month": "Oct",
+      "Amount": 3780
+    },
+    {
+      "Month": "Nov",
+      "Amount": 4000
+    },
+    {
+      "Month": "Dec",
+      "Amount": 12500
+    },
+    {
+      "Month": "Jan",
+      "Amount": 8000
+    }
+  ]
+}
